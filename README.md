@@ -176,7 +176,7 @@ The potential for models to leak details from the data on which they’re traine
 * [anonymize-it](https://github.com/elastic/anonymize-it) - The Elastic Machine Learning Team's general purpose tool for suppression, masking, and generalization of fields to aid data pseudonymization.
 * [Singapore Guide to Anonymization](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx) - The Singapore Personal Data Protection Commission (PDPC) has published the Guide on Basic Anonymization to provide more practical guidance for businesses on how to appropriately perform basic anonymization and de-identification of various datasets.
 * [Transforming Data in Google Cloud Platform](https://cloud.google.com/dlp/docs/transformations-reference) - This reference covers the available de-identification techniques, or transformations, that can be applied in Google Cloud's Data Loss Prevention (i.e., redaction, replacement, masking, crypto-based tokenization, bucketing, date shifting, and time extraction).
-* Measuring Re-Identification Risk / Privacy Definitions - A series of helpful blog posts by Damien Desfontaines on privacy definitions that attempt to quantify the level of risk associated with a dataset.
+* Measuring Re-Identification Risk in Datasets / Privacy Definitions - A series of helpful blog posts by Damien Desfontaines on the definitions of k-anonymity, k-map, l-diversity, and delta-presence. Additionally, a video by Utrecht University on the definition of t-closeness.
     *  [k-anonymity](https://desfontain.es/privacy/k-anonymity.html)
     *  [k-map](https://desfontain.es/privacy/k-map.html)
     *  [l-diversity](https://desfontain.es/privacy/l-diversity.html)
