@@ -181,6 +181,7 @@ The potential for models to leak details from the data on which they’re traine
     *  [k-map](https://desfontain.es/privacy/k-map.html)
     *  [l-diversity](https://desfontain.es/privacy/l-diversity.html)
     *  [delta-presence](https://desfontain.es/privacy/delta-presence.html)
+    *  [t-closeness](https://utrechtuniversity.github.io/dataprivacyhandbook/k-l-t-anonymity.html#t-closeness)
 * [Technical Privacy Metrics: a Systematic Survey](https://arxiv.org/abs/1512.00327) - Paper by Isabel Wagner and David Eckhoff that discusses over 80 privacy metrics and introduces categorizations based on the aspect of privacy they measure, their required inputs, and the type of data that needs protection. They also present a method on how to choose privacy metrics based on nine questions that help identify the right privacy metrics for a given scenario.
 * [Data Anonymization Tool](https://www.pdpc.gov.sg/Help-and-Resources/2018/01/Basic-Anonymisation) - The Singapore PDPC has launched a free Data Anonymization tool to help organizations transform simple datasets by applying basic anonymization techniques. 
 * [Masked AI](https://github.com/cado-security/masked-ai) - Python SDK and CLI wrappers that enable safer usage of public large language models (LLMs) like OpenAI/GPT4 by removing sensitive data from prompts and replacing it with fake data before submitting to the OpenAI API.
@@ -197,6 +198,7 @@ The potential for models to leak details from the data on which they’re traine
 * [Concrete](https://github.com/zama-ai/concrete) - The concrete ecosystem is a set of crates (packages in the Rust language) that implements Zama's variant of TFHE, while most of the complexity of fully homomorphic encryption is hidden under high-level APIs.
 * [FHE.org](https://fhe.org/) - Community of researchers and developers interested in advancing Fully Homomorphic Encryption (FHE) and other secure computation techniques.
 * [blyss](https://github.com/blyssprivacy/sdk) - Open-source SDK for accessing data privately using homomorphic encryption.
+* [swift-homomorphic-encryption](https://github.com/apple/swift-homomorphic-encryption) - Apple's open source [Swift package](https://www.swift.org/blog/announcing-swift-homomorphic-encryption/) that utilizes Private Information Retrieval (PIR).
 
 ### Tokenization
 ---
@@ -320,7 +322,7 @@ ___
 * [Privacy in M&A Transactions: The Playbook](https://iapp.org/resources/article/privacy-in-ma-transactions-playbook/) - The playbook is directed to mergers and acquisitions (M&A) and privacy teams to help identify potential privacy-related issues.
 * [European Data Protection Supervisor Website Evidence Collector](https://github.com/EU-EDPS/website-evidence-collector) - The Website Evidence Collector tool automates the collection of evidence of personal data processing, such as cookies, or requests to third parties.
 * [European Data Protection Board Website Auditing Tool](https://code.europa.eu/edpb/website-auditing-tool/-/releases) - The Website Auditing Tool is used to collect evidence and generate reports regarding trackers that are being used by websites.
-* [webXray](https://webxray.org/) - webXray is a [command line tool](https://github.com/agilemobiledev/webXray) for analyzing webpage traffic and content, extracting legal policies, and identifying the companies which collect user data.
+* [webXray](https://webxray.org/) - webXray is a tool for legal and compliance professionals to find privacy violations on the web.
 * [GDPR Developer Guide](https://github.com/LINCnil/GDPR-Developer-Guide) - In order to assist web and application developers in making their work GDPR-compliant, France's Data Protection Agency, the CNIL, has drawn up a guide of best practices.
 * [Data Protection/Privacy Mapping Project](https://github.com/microsoft/data-protection-mapping-project) - Microsoft's Data Protection/Privacy Mapping Project facilitates consistent global comprehension and implementation of data protection with an open source mapping between ISO/IEC 27701 and global data protection and/or privacy laws and regulations.
 * [European Data Protection Board Guidelines 4/2019 on Article 25, Data Protection by Design and by Default](https://edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_en.pdf) - This document gives general guidance on the obligation of Data Protection by Design and by Default set forth in Article 25 in the GDPR.
