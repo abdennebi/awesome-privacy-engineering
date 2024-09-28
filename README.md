@@ -46,7 +46,7 @@
 * [Data Protocol](https://dataprotocol.com/products/courses) - Courses to teach developers and technical professionals how to build products responsibly and partner with platforms effectively.
 * [Carnegie Mellon University - Privacy Engineering Certificate](https://privacy.cs.cmu.edu/privacy-cert/index.html) - Four-week certificate program that revolves around a combination of mini-tutorials, class discussions, and hands-on exercises designed to ensure that students develop practical knowledge of all key privacy engineering areas.
 * [Technical Privacy Masterclass](https://learn.privado.ai/courses/technical-privacy-masterclass) - In four modules, this course from Privado is designed to deliver privacy leaders and their teams with an overview of the pillars of a proactive privacy program.
-* [Privacy Quest](https://www.privacyquest.org/) - A gamified approach to learning about privacy engineering, Privacy Quest uses challenges and competitions to build your privacy and security knowledge.
+* [Compliance Detective](https://play.compliancedetective.com/) - A gamified approach to learning about privacy engineering, Compliance Detective (formerly Privacy Quest) uses challenges and competitions to build your privacy and security knowledge.
 * [Hitchhiker's Guide to Privacy Engineering](https://hgpe.orderofepoch.com/) - The goal of this creative privacy project is to offer a fun, engaging, and immersive privacy learning experience for privacy lawyers to improve their technical privacy skills.
 
 ### Books
@@ -63,6 +63,7 @@
 * [Privacy Engineering: A Dataflow and Ontological Approach (Ian Oliver)](https://www.amazon.com/Privacy-Engineering-Dataflow-Ontological-Approach/dp/1497569710)
 * [Practical Data Privacy (Katharine Jarmul)](https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/) [(and accompanying Jupyter notebooks)](https://github.com/kjam/practical-data-privacy)
 * [Threat Modeling: Designing for Security (Adam Shostack)](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998/)
+* [Threat Modeling: A Practical Guide for Development Teams (Izar Tarandach, Matthew J. Coles)](https://threatmodeling.dev/)
 
 ### Data Deletion, Data Mapping, and Data Subject Access Requests
 ---
@@ -104,7 +105,7 @@
 * [LINDDUN GO](https://www.linddun.org/go) - LINDDUN GO is designed to give you a quick start to privacy threat modeling.
 * [PLOT4AI](https://plot4.ai/) - Privacy Library Of Threats 4 Artificial Intelligence (PLOT4AI) is a threat modeling library to help practitioners build responsible artificial intelligence.
 * [Draw.io Libraries for Threat Modeling](https://github.com/michenriksen/drawio-threatmodeling) - Collection of custom libraries for using the Draw.io diagramming application for threat modeling.
-* [Models of Applied Privacy (MAP)](https://github.com/comcast/map) - A privacy threat modeling persona framework that developers can use to test and document privacy threats, and find edge cases of privacy harm.
+* [xCompass](https://github.com/Comcast/xCompass) - A privacy threat modeling persona framework that developers can use to test and document privacy threats, and find edge cases of privacy harm (formerly named Models of Applied Privacy (MAP)).
 * [Privacy Adversarial Framework (PAF)](https://github.com/facebookresearch/privacy_adversarial_framework) - Developed by Facebook, the Privacy Adversarial Framework (PAF) is a knowledgebase of privacy-focused adversarial tactics and techniques that is heavily inspired by MITRE ATT&CK®.
 * [PANOPTIC™ Privacy Threat Model](https://ptmworkshop.gitlab.io/#/panoptic) - MITRE PANOPTIC™, the Pattern and Action Nomenclature Of Privacy Threats In Context, is a privacy threat taxonomy for breaking down and describing privacy attacks against individuals and groups of individuals.
 
@@ -333,7 +334,8 @@ ___
 
 ### Conferences
 ---
-* [USENIX Conference on Privacy Engineering Practice and Respect (PEPR)](https://www.usenix.org/conference/pepr24)
+* [USENIX Conference on Privacy Engineering Practice and Respect (PEPR)](https://www.usenix.org/conference/pepr25)
+    * [PEPR 2024 Conference](https://www.usenix.org/conference/pepr24) | [Videos](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5ldxIsGMFjwixoLxQ1iMq_BH)
     * [PEPR 2023 Conference](https://www.usenix.org/conference/pepr23) | [Videos](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5le5MLOePeumxpQfUg2Gyfui)
     * [PEPR 2022 Conference](https://www.usenix.org/conference/pepr22/conference-program) | [Videos](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfUtLXo1bRFILHssRK-5ETT)
     * [PEPR 2021 Conference](https://fpf.org/fpf-event/pepr-2021-conference-on-privacy-engineering-practice-and-respect-2/) | [Videos](https://www.youtube.com/watch?v=lenVTvDMWxM&list=PL_cjZ5iVWe7n0sU5g0o8zTZSMLAvfl4nL)
@@ -378,6 +380,7 @@ ___
 * [awesome-ml-sp-papers](https://github.com/gnipping/Awesome-ML-SP-Papers)
 * [awesome-synethetic-data](https://github.com/gretelai/awesome-synthetic-data)
 * [awesome-privacy](https://github.com/Lissy93/awesome-privacy)
+* [awesome-threat-modeling](https://github.com/hysnsec/awesome-threat-modelling)
 
 ### Related GitHub Topics
 ___
